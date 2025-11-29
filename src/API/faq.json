@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is HTML?",
+    "answer": "HTML is a markup language used to structure content on a webpage like headings, paragraphs, lists, links, and images.",
+    "tags": ["HTML", "basics"]
+  },
+  {
+    "id": 2,
+    "question": "What does CSS do?",
+    "answer": "CSS is used to style HTML elements — colors, layout, spacing, fonts, and responsive design.",
+    "tags": ["CSS", "styling"]
+  },
+  {
+    "id": 3,
+    "question": "Why is JavaScript important?",
+    "answer": "JavaScript adds interactivity to websites like form validation, dynamic content, sliders, and API calls.",
+    "tags": ["JavaScript", "basics"]
+  },
+  {
+    "id": 4,
+    "question": "What is responsive design?",
+    "answer": "Responsive design makes a website look good on all devices like mobiles, tablets, and desktops using media queries and flexible layouts.",
+    "tags": ["CSS", "responsive"]
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between Flexbox and Grid?",
+    "answer": "Flexbox is best for 1D layouts (rows or columns). Grid is best for 2D layouts (rows and columns together).",
+    "tags": ["CSS", "layout"]
+  },
+  {
+    "id": 6,
+    "question": "What is the DOM?",
+    "answer": "The DOM is the browser’s representation of a webpage that JavaScript can read and modify.",
+    "tags": ["JavaScript", "browser"]
+  },
+  {
+    "id": 7,
+    "question": "What is an API and how does fetch() work?",
+    "answer": "An API provides data or services. fetch() is used to send HTTP requests like GET or POST and returns a promise.",
+    "tags": ["JavaScript", "API"]
+  },
+  {
+    "id": 8,
+    "question": "What is a Single Page Application (SPA)?",
+    "answer": "SPA loads only one HTML page and updates content using JavaScript without reloading the whole page.",
+    "tags": ["SPA", "React"]
+  },
+  {
+    "id": 9,
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building reusable UI components and fast, modern web applications.",
+    "tags": ["React", "frontend"]
+  },
+  {
+    "id": 10,
+    "question": "What is the difference between state and props in React?",
+    "answer": "Props are read-only data passed from parent to child. State is internal data that can change inside a component.",
+    "tags": ["React", "concepts"]
+  },
+  {
+    "id": 11,
+    "question": "What is Node.js?",
+    "answer": "Node.js is a JavaScript runtime for building server-side applications and APIs.",
+    "tags": ["Node.js", "backend"]
+  },
+  {
+    "id": 12,
+    "question": "What is the difference between SQL and NoSQL?",
+    "answer": "SQL databases use tables and fixed schema. NoSQL databases use flexible schemas like documents or key-value storage.",
+    "tags": ["database", "SQL", "NoSQL"]
+  },
+  {
+    "id": 13,
+    "question": "What is the difference between authentication and authorization?",
+    "answer": "Authentication confirms who the user is. Authorization decides what the user can access.",
+    "tags": ["security", "auth"]
+  },
+  {
+    "id": 14,
+    "question": "What is CORS?",
+    "answer": "CORS is a browser security rule that controls which websites are allowed to request data from another website.",
+    "tags": ["security", "browser"]
+  },
+  {
+    "id": 15,
+    "question": "What are the basic deployment options?",
+    "answer": "Static sites: Vercel, Netlify. Server apps: Render, DigitalOcean, AWS, Heroku.",
+    "tags": ["deployment"]
+  },
+  {
+    "id": 16,
+    "question": "How can I improve website performance?",
+    "answer": "Compress images, minify CSS/JS, enable caching, lazy-load images, and use lighter assets.",
+    "tags": ["performance"]
+  },
+  {
+    "id": 17,
+    "question": "What are the basics of SEO?",
+    "answer": "Use proper headings, meta tags, fast load speed, mobile-friendly design, and meaningful content.",
+    "tags": ["SEO"]
+  },
+  {
+    "id": 18,
+    "question": "Why is Git important?",
+    "answer": "Git tracks code history, helps teamwork, and lets you undo mistakes easily.",
+    "tags": ["tools", "git"]
+  },
+  {
+    "id": 19,
+    "question": "What is a Progressive Web App (PWA)?",
+    "answer": "A PWA gives a native app–like experience with offline support, installation, and fast performance.",
+    "tags": ["PWA"]
+  },
+  {
+    "id": 20,
+    "question": "How should I start learning web development?",
+    "answer": "Start with HTML, CSS, then JavaScript. Build small projects, then learn React or Node.js based on interest.",
+    "tags": ["learning", "roadmap"]
+  }
+]
